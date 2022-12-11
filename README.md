@@ -9,6 +9,7 @@ however, they can be used as an overview for anyone who is interested in custom 
  - https://wiki.lineageos.org/devices/m20lte/build
  - https://medium.com/@daltonfury42/building-lineageos-for-your-device-a7d26ab50549
  - https://gist.github.com/cheriimoya/6a4ffdd10ccf66961a748f320e8a9d41
+ - https://forum.xda-developers.com/t/guide-dev-compile-any-source-built-rom-for-your-device-ultra-noob-friendly.2320007/
 
 ## Including things into a ROM
 
